@@ -9,6 +9,6 @@ Read more: http://groupware.les.inf.puc-rio.br/har#ixzz4Zd5dNY4X
 
 ## Repository Contents
 
-The complete code for producing the model and outputs is contained in PMLProject.Rmd. It was rendered for Peer Review **before** the predictions on the test samples were made, so as not to contaminate the output. Note that I set "echo=FALSE" for this file, so the HTML document will not show the code; you need the .Rmd file to see it.
+The complete code for producing the model and outputs is contained in PMLProject.Rmd. It was rendered for Peer Review **before** the predictions on the test samples were made, so as not to contaminate the output. Note that I set "echo=FALSE" as default for this file, so the HTML document will not show all the code; you need the .Rmd file to see it.
 
-PMLProject.md and PMLProject.html were created by running knittr on the .Rmd file. 
+PMLProject.md and PMLProject.html were created by running knitr on the .Rmd file. 
